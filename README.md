@@ -25,10 +25,24 @@
 
 
 
-### Backend  
+### Game Engines  
 <div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+<a href="https://unity.com/" target="_blank">
+  <img style="margin: 10px; background-color: white; padding: 5px; border-radius: 10px;" 
+       src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Light.svg" 
+       alt="Unity" height="50" />
+</a>
+<a href="https://www.unrealengine.com/" target="_blank">
+  <img style="margin: 10px; background-color: white; padding: 5px; border-radius: 10px;" 
+       src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/UnrealEngine.svg" 
+       alt="Unreal Engine" height="50" />
+</a>
+
+  <a href="https://godotengine.org/" target="_blank">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" height="50" />
+  </a>  
 </div>
+
 
 </td><td valign="top" width="33%">
 
@@ -57,8 +71,15 @@
 <a href="https://linkedin.com/in/Angelika Juhász" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:angelikajuhasz.aj@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
+<a href="https://AngelikaJuhasz.itch.io/" target="_blank">
+<img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" style="margin-bottom: 5px;" />
+</a>
+
+
 </div>  
-  
 
 <br/>  
 
