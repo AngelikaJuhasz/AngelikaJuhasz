@@ -9,50 +9,38 @@
 
 <br/>  
 
-
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
 ### Programming Languages  
-<div align="center">  
+<div align="left">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+<td valign="top" width="33%" style="border: none;">
 
 ### Game Engines   
-<div align="center">
+<div align="left">
 <a href="https://unity.com/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block; width: 50px; height: 50px; background-color: white; border-radius: 10px; overflow: hidden;">
   <img style="width: 50px; height: 50px; object-fit: contain;" 
        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" 
-       alt="Unity" />
-</a>
+       alt="Unity" /></a>
+  
 <a href="https://godotengine.org/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block; width: 50px; height: 50px; background-color: white; border-radius: 10px; overflow: hidden;">
   <img style="width: 50px; height: 50px; object-fit: contain;" 
        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" 
-       alt="Godot" />
-</a>
+       alt="Godot" /></a>
 
 <a href="https://www.unrealengine.com/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block; width: 50px; height: 50px; background-color: white; border-radius: 10px; overflow: hidden;">
   <img style="width: 50px; height: 50px; object-fit: contain;" 
        src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/UnrealEngine.svg" 
-       alt="Unreal Engine" />
-</a>
-
+       alt="Unreal Engine" /></a>
 </div>
 
-
-</td><td valign="top" width="33%">
-
-
+</td>
+<td valign="top" width="33%" style="border: none;">
 
 ### Software  
-<div align="center">  
+<div align="left">  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" height="50" /></a>  
@@ -61,13 +49,14 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
-</td></tr></table>  
 
-<br/>  
+</div>
+
+
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/AngelikaJuhasz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
