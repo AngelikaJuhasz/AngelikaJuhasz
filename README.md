@@ -43,6 +43,7 @@ And other flavourtext~
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" alt="LaTeX" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="WordPress" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" height="50" /></a>  
+
 </div>
 
 <br/>  
@@ -51,19 +52,10 @@ And other flavourtext~
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/AngelikaJuhasz" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github height="40" style="margin: 10px;" />
-</a>
-<a href="https://linkedin.com/in/Angelika Juhász" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin height="40" style="margin: 10px;" />
-</a>  
-<a href="mailto:angelikajuhasz.aj@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="40" style="margin: 10px;" />
-</a>
-<a href="https://AngelikaJuhasz.itch.io/" target="_blank">
-<img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" height="40" style="margin: 10px;" />
-</a>
-
+<a href="https://github.com/AngelikaJuhasz" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github height="40" /></a>
+<a href="https://linkedin.com/in/Angelika Juhász" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin height="40" style="margin: 20px;" /></a>  
+<a href="mailto:angelikajuhasz.aj@gmail.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="40" style="margin: 20px;" /></a>
+<a href="https://AngelikaJuhasz.itch.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" height="40" style="margin: 20px;" /></a>
 
 </div>  
 <br/>  
