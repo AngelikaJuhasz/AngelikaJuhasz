@@ -51,12 +51,12 @@
 
 
 </div>
-
+<br/>  
 
 
 
 ## Connect with me  
-<div align="left">
+<div align="center">
 <a href="https://github.com/AngelikaJuhasz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -74,7 +74,9 @@
 <br/>  
 
 
-## Github Stats  
+
+## Github Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelikaJuhasz&hide_border=true&layout=compact&bg_color=00000000" align="center" />
 </div>
