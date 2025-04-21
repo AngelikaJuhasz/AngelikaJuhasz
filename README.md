@@ -17,30 +17,33 @@
 
 ### Programming Languages  
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Game Engines  
-<div align="center">  
-<a href="https://unity.com/" target="_blank">
-  <img style="margin: 10px; background-color: white; padding: 5px; border-radius: 10px;" 
-       src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Light.svg" 
-       alt="Unity" height="50" />
+### Game Engines   
+<div align="center">
+<a href="https://unity.com/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block; width: 50px; height: 50px; background-color: white; border-radius: 10px; overflow: hidden;">
+  <img style="width: 50px; height: 50px; object-fit: contain;" 
+       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" 
+       alt="Unity" />
 </a>
-<a href="https://www.unrealengine.com/" target="_blank">
-  <img style="margin: 10px; background-color: white; padding: 5px; border-radius: 10px;" 
-       src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/UnrealEngine.svg" 
-       alt="Unreal Engine" height="50" />
+<a href="https://godotengine.org/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block; width: 50px; height: 50px; background-color: white; border-radius: 10px; overflow: hidden;">
+  <img style="width: 50px; height: 50px; object-fit: contain;" 
+       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" 
+       alt="Godot" />
 </a>
 
-  <a href="https://godotengine.org/" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" height="50" />
-  </a>  
+<a href="https://www.unrealengine.com/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block; width: 50px; height: 50px; background-color: white; border-radius: 10px; overflow: hidden;">
+  <img style="width: 50px; height: 50px; object-fit: contain;" 
+       src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/UnrealEngine.svg" 
+       alt="Unreal Engine" />
+</a>
+
 </div>
 
 
@@ -50,12 +53,12 @@
 
 ### Software  
 <div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" alt="LaTeX" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="WordPress" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
 </td></tr></table>  
@@ -78,33 +81,17 @@
 <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" style="margin-bottom: 5px;" />
 </a>
 
-
 </div>  
-
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelikaJuhasz&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelikaJuhasz&hide_border=true&layout=compact&bg_color=00000000" align="center" />
+</div>
+
 
 <br/>  
 
 
-## Recent Blog Posts  
-  
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
