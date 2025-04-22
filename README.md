@@ -1,10 +1,25 @@
-### <div align="center">Hi! I am Angelika Juhász a dedicated Game Design student based in Sweden.</div>  
+### <div align="center">Hi! I am Angelika Juhász, Game Developer and Project Manager! </div>
+<br><br>
+  <div>
+    <img src="https://raw.githubusercontent.com/AngelikaJuhasz/AngelikaJuhasz/refs/heads/main/school_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg" alt="school" style="width: 15px; vertical-align: middle;" /> &nbsp;&nbsp; I’m a student at Uppsala University, majoring in Game Design
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/AngelikaJuhasz/AngelikaJuhasz/refs/heads/main/code_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg" alt="code" style="width: 15px; vertical-align: middle;" /> &nbsp;&nbsp; I’m currently learning Web Development using Blazor
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/AngelikaJuhasz/AngelikaJuhasz/refs/heads/main/lightbulb_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg" alt="learning" style="width: 15px; vertical-align: middle;" />&nbsp;&nbsp;&nbsp; I'm currently working on my Portfolio Website and a Raspberry Pi project
+  </div>
+
   
 
-- 🔭 I’m currently working on [Unavailable link]()  
-- 🌱 I’m currently learning [exhaustive list of projetcs]  
-  
-And other flavourtext~
+
+
+<br><br>
+<p>Check out my portfolio and feel free to reach out to me!</p>
+
+
+
+
 <br/>  
 
 ## My Skill Set  
